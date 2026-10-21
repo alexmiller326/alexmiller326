@@ -1,6 +1,9 @@
 # Hi, I'm Alex Miller 👋
 
 <p align="left">
+  <a href="https://github.com/alexmiller326"><img src="https://img.shields.io/badge/GitHub-alexmiller326-181717?style=flat-square&logo=github" alt="GitHub"></a>
+  <a href="https://gitlab.com/alexmiller326"><img src="https://img.shields.io/badge/GitLab-alexmiller326-FC6D26?style=flat-square&logo=gitlab" alt="GitLab"></a>
+  <a href="https://huggingface.co/alexmiller326"><img src="https://img.shields.io/badge/HuggingFace-alexmiller326-FFD21E?style=flat-square&logo=huggingface" alt="Hugging Face"></a>
   <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Security%20Engineering-1f6feb?style=flat-square&logo=rust&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Languages-Rust%20%7C%20C%2B%2B%20%7C%20Go%20%7C%20TypeScript-238636?style=flat-square" alt="Languages">
   <img src="https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20Internals-8957e5?style=flat-square" alt="Platform">
@@ -195,6 +198,14 @@ Engenheiro sênior de sistemas e segurança focado no desenvolvimento de ferrame
 - **أنظمة التشغيل**: واجهات نواة Linux، بنية Windows الداخلية والتوقيع الرقمي Authenticode، وتوافق POSIX.
 
 </details>
+
+---
+
+### 🌐 Ecosystem & Profiles
+
+- **GitHub**: [@alexmiller326](https://github.com/alexmiller326) — Open-source code, personal research, and systems projects.
+- **GitLab**: [@alexmiller326](https://gitlab.com/alexmiller326) — Enterprise pipelines, CI/CD explorations, and private mirrors.
+- **Hugging Face**: [@alexmiller326](https://huggingface.co/alexmiller326) — Neural inference runtimes, model evaluations, and datasets.
 
 ---
 
