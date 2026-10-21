@@ -26,10 +26,8 @@
 
 ---
 
-### 🇺🇸 English
-
 <details open>
-<summary><b>🇺🇸 English Overview (Click to expand / collapse)</b></summary>
+<summary><a name="-english"></a><b>🇺🇸 English</b></summary>
 <br>
 
 I am a senior systems and security engineer focused on building robust low-level tooling, high-performance runtimes, and verified cryptographic protocols. My work centers on first-principles software architecture, binary forensics, and zero-overhead systems engineering.
@@ -52,12 +50,8 @@ I am a senior systems and security engineer focused on building robust low-level
 
 </details>
 
----
-
-### 🇰🇷 한국어
-
-<details open>
-<summary><b>🇰🇷 한국어 소개 (클릭하여 접기 / 펼치기)</b></summary>
+<details>
+<summary><a name="-한국어"></a><b>🇰🇷 한국어</b></summary>
 <br>
 
 견고한 저수준 시스템 도구, 고성능 런타임 및 엄격하게 검증된 암호학 프로토콜을 설계하고 구현하는 시니어 시스템 & 보안 엔지니어입니다. 제1원리 기반의 소프트웨어 아키텍처, 바이너리 포렌식 및 무오버헤드 시스템 엔지니어링에 집중하고 있습니다.
@@ -80,12 +74,8 @@ I am a senior systems and security engineer focused on building robust low-level
 
 </details>
 
----
-
-### 🇯🇵 日本語
-
 <details>
-<summary><b>🇯🇵 日本語 (クリックして展開 / 折りたたみ)</b></summary>
+<summary><a name="-日本語"></a><b>🇯🇵 日本語</b></summary>
 <br>
 
 堅牢な低レイヤシステムツール、高性能ランタイム、および検証された暗号化プロトコルの設計と実装に注力するシニアシステム＆セキュリティエンジニアです。第一原理に基づくソフトウェアアーキテクチャ、バイナリフォレンジック、およびゼロオーバーヘッドエンジニアリングを追求しています。
@@ -103,12 +93,8 @@ I am a senior systems and security engineer focused on building robust low-level
 
 </details>
 
----
-
-### 🇨🇳 简体中文
-
 <details>
-<summary><b>🇨🇳 简体中文 (点击展开 / 折叠)</b></summary>
+<summary><a name="-简体中文"></a><b>🇨🇳 简体中文</b></summary>
 <br>
 
 资深底层系统与安全工程师，专注于构建高可靠低层工具、高性能运行时与形式化验证的密码学协议。工程核心立足于第一性原理架构、二进制取证与零开销系统工程。
@@ -126,12 +112,8 @@ I am a senior systems and security engineer focused on building robust low-level
 
 </details>
 
----
-
-### 🇪🇸 Español
-
 <details>
-<summary><b>🇪🇸 Español (Haga clic para expandir / contraer)</b></summary>
+<summary><a name="-español"></a><b>🇪🇸 Español</b></summary>
 <br>
 
 Ingeniero senior de sistemas y seguridad dedicado al desarrollo de herramientas de bajo nivel robustas, entornos de ejecución de alto rendimiento y protocolos criptográficos verificados. Mi enfoque se basa en la arquitectura de software de primeros principios, el análisis forense binario y la ingeniería sin sobrecarga de rendimiento.
@@ -144,12 +126,8 @@ Ingeniero senior de sistemas y seguridad dedicado al desarrollo de herramientas 
 
 </details>
 
----
-
-### 🇫🇷 Français
-
 <details>
-<summary><b>🇫🇷 Français (Cliquez pour afficher / masquer)</b></summary>
+<summary><a name="-français"></a><b>🇫🇷 Français</b></summary>
 <br>
 
 Ingénieur senior en systèmes et sécurité, spécialisé dans la conception d'outils bas niveau robustes, d'environnements d'exécution haute performance et de protocoles cryptographiques vérifiés. Mes travaux reposent sur l'architecture logicielle selon les premiers principes, l'analyse légale de binaires et l'ingénierie à surcoût nul.
@@ -162,12 +140,8 @@ Ingénieur senior en systèmes et sécurité, spécialisé dans la conception d'
 
 </details>
 
----
-
-### 🇩🇪 Deutsch
-
 <details>
-<summary><b>🇩🇪 Deutsch (Klicken zum Ein- / Ausklappen)</b></summary>
+<summary><a name="-deutsch"></a><b>🇩🇪 Deutsch</b></summary>
 <br>
 
 Senior Systems & Security Engineer mit Fokus auf robuste Low-Level-Tools, Hochleistungs-Runtimes und verifizierte kryptografische Protokolle. Meine Arbeit basiert auf Softwarearchitektur nach First-Principles, binärer Forensik und Zero-Overhead-Systemtechnik.
@@ -180,12 +154,8 @@ Senior Systems & Security Engineer mit Fokus auf robuste Low-Level-Tools, Hochle
 
 </details>
 
----
-
-### 🇷🇺 Русский
-
 <details>
-<summary><b>🇷🇺 Русский (Нажмите для открытия / скрытия)</b></summary>
+<summary><a name="-русский"></a><b>🇷🇺 Русский</b></summary>
 <br>
 
 Ведущий системный инженер и специалист по безопасности. Специализируюсь на создании надежных низкоуровневых инструментов, высокопроизводительных сред выполнения и верифицированных криптографических протоколов. В основе работы — проектирование на базе фундаментальных принципов, форензика бинарных файлов и системная инженерия с нулевыми накладными расходами.
@@ -198,12 +168,8 @@ Senior Systems & Security Engineer mit Fokus auf robuste Low-Level-Tools, Hochle
 
 </details>
 
----
-
-### 🇧🇷 Português
-
 <details>
-<summary><b>🇧🇷 Português (Clique para expandir / recolher)</b></summary>
+<summary><a name="-português"></a><b>🇧🇷 Português</b></summary>
 <br>
 
 Engenheiro sênior de sistemas e segurança focado no desenvolvimento de ferramentas de baixo nível resilientes, runtimes de alto desempenho e protocolos criptográficos verificados. Meu trabalho é centrado em arquitetura orientada por primeiros princípios, computação forense de binários e engenharia de sobrecarga zero.
@@ -216,12 +182,8 @@ Engenheiro sênior de sistemas e segurança focado no desenvolvimento de ferrame
 
 </details>
 
----
-
-### 🇸🇦 العربية
-
 <details>
-<summary><b>🇸🇦 العربية (انقر للتوسيع / الطي)</b></summary>
+<summary><a name="-العربية"></a><b>🇸🇦 العربية</b></summary>
 <br>
 
 مهندس نظم وأمن برمجيات أول متخصص في بناء أدوات الأنظمة منخفضة المستوى عالية الاعتمادية، وبيئات التشغيل فائقة الأداء، والبروتوكولات التشفيرية الموثقة. يرتكز عملي على هندسة البرمجيات القائمة على المبادئ الأولى، والتحليل الجنائي للبرمجيات الثنائية، وهندسة النظم ذات الاستهلاك الأدنى لموارد العتاد.
